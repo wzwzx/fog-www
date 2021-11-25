@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![wwy's GitHub stats](https://github-readme-stats.vercel.app/api?username=fog-www)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **fog-www/fog-www** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
