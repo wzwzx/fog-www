@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![wwy's GitHub stats](https://github-readme-stats.vercel.app/api?username=fog-www)](https://github.com/anuraghazra/github-readme-stats)
+![wwy's GitHub stats](https://github-readme-stats.vercel.app/api?username=fog-www)
 
 
 <!--
